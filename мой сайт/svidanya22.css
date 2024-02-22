@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://images.wallpapersden.com/image/download/dark-minimal-mountains-at-night_a2dnbWyUmZqaraWkpJRmaGtrrWxrbQ.jpg);
+    
+}
+.all{
+    position: relative;
+    top: -170px;
+}
+.h2{
+    position: relative;
+    left: 17%;
+    top: 200px;
+    text-shadow: white 1px 1px 20px;
+    color: white;
+    text-align: center;
+    width: 900px;
+}
+.mapouter{
+    position: relative;
+    left: 500px;
+    top: 220px;
+}
+.h3{
+    position: relative;
+    left: 18%;
+    top: 200px;
+    text-shadow: white 1px 1px 20px;
+    color: white;
+    width: 900px;
+    text-align: center;
+}

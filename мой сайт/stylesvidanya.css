@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://images.wallpapersden.com/image/download/dark-minimal-mountains-at-night_a2dnbWyUmZqaraWkpJRmaGtrrWxrbQ.jpg);
+    
+}
+h1{
+    position: relative;
+    left: 25%;
+    top: 200px;
+    text-shadow: white 1px 1px 20px;
+    color: white;
+    width: 900px;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    background-color: #00000000;
+    color: rgb(0, 0, 0);
+    border: none;
+    position: absolute;
+    cursor: pointer;
+    border: 1px solid;
+    box-shadow: white 1px 1px 5px;
+    filter:blur(-50%)
+}
+#yesButton:hover{
+    background-color: #00000062;
+    color: white;
+    transition: 0.5s;
+    
+    box-shadow:  1px 1px 20px rgba(255, 255, 255, 0.2);
+}
+
+
+#yesButton {
+    left: 40%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+}
+
+#noButton{
+    left: 60%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+}
